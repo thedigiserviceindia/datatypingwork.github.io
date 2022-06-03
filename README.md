@@ -69,14 +69,12 @@ Inline image 6Inline image 3
 <br>
 company will pay Rs.10,000 per assignment Our
 <br>
-company working since 2007 
+
+	<span style="color:blue;">company working since 2007</span> 
 <br>
- <span style="color:blue;">
 
 and in India and now provide work at
-![pexels-lex-photography-1109543](https://user-images.githubusercontent.com/106242396/171816585-04e249a3-019b-4361-a1f8-5b61ef08bf1b.jpg)
 
- 
 <br>
 <b>NATIONAL LEVEL.
 </b>
