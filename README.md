@@ -29,8 +29,9 @@ p{font-size: 20;font-family: arial black;background: black;color: white;align-co
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
+<img src="(https://user-images.githubusercontent.com/106242396/171815477-61512427-abd3-4997-878f-91610a7b3fba.jpg)"
 
-<img src="![pexels-lex-photography-1109543](https://user-images.githubusercontent.com/106660261/171790371-7e777612-fe18-4a06-b6f0-af2e34c5b4e3.jpg)">
+
 
 
 <ul><p class="note">
@@ -54,7 +55,7 @@ NO WORK LOAD!!!!NO TARGET!!!!
 <b>
 
 <li>
-DIGI SERVICES INDIA </b>is a data outsourcing
+DIGI SERVICES INDIA is a data outsourcing
 <br> 
 company which provides PDF file, you just see and
 <br>
@@ -71,7 +72,7 @@ company will pay Rs.10,000 per assignment Our
 <br>
 company working since 2007 
 <br>
- <span style="color:aliceblue;">
+ <span style="color:blue;">
 
 and in India and now provide work at
 
@@ -83,11 +84,11 @@ and in India and now provide work at
 <br>
 <br>
 <br>
-<b><u><li>ABOUT JOB
+<b><u><li>ABOUT JOB</u> :- </b>
 
 
-</u> 
-:- </b>
+
+
 <br>	
 <br>
 <br>
@@ -108,7 +109,7 @@ story to type
 <br>
 
 
-<b><u><li>LEGAL DOCUMENT </u></b>&nbsp; = our company provide you a 
+<li><b><u>LEGAL DOCUMENT </u></b>&nbsp; = our company provide you a 
 <br>
 
 legal bond paper proof in which company mention 
