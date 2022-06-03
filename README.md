@@ -29,7 +29,6 @@ p{font-size: 20;font-family: arial black;background: black;color: white;align-co
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
-<img src="(https://user-images.githubusercontent.com/106242396/171815477-61512427-abd3-4997-878f-91610a7b3fba.jpg)"
 
 
 
@@ -75,6 +74,7 @@ company working since 2007
  <span style="color:blue;">
 
 and in India and now provide work at
+![pexels-lex-photography-1109543](https://user-images.githubusercontent.com/106242396/171816585-04e249a3-019b-4361-a1f8-5b61ef08bf1b.jpg)
 
  
 <br>
