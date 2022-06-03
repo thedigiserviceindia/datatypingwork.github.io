@@ -82,7 +82,7 @@ and in India and now provide work at
 <br>
 <br>
 <br>
-<b><u><li>ABOUT JOB</u> :- </b>
+	<li><b>ABOUT JOB</b>:- 
 
 
 
@@ -163,10 +163,10 @@ Work Details
 
 
 <br>
-<br><span style="color:red;">
+<br><span style="color:red;">Read Carefully</span>
 
-Read Carefully
-</span>
+
+
 <br>
 <br>
 
@@ -328,16 +328,16 @@ Registration Certificate of Establishment
 
 <td bgcolor="violet">
    <br><br><br>
-<center><span style="font-size:19;color:red;"><b><u>
-   कोई काम लोड नहीं!!!! कोई लक्ष्य नहीं!!!!
-</u></b></span></center>
+<center><span style="font-size:19;color:red;"><b><u>   कोई काम लोड नहीं!!!! कोई लक्ष्य नहीं!!!!</u></b></span></center>
 
 
-	<center>"कंपनी आपको एक पीडीएफ की फाइल प्रदान करेगी जिसे आपको करना है <br>
+
+
+	<center>"कंपनी आपको एक पीडीएफ की फाइल प्रदान करेगी जिसे आपको करना है <br>बस देखें और टाइप करें क्योंकि यह एमएस-वर्ड है"</center><br>
 
 		
-		बस देखें और टाइप करें क्योंकि यह एमएस-वर्ड है"
-</center><br>
+		
+
 <br>
 <br>
 <li><span style="font-size:20;color:violet;"><B>कार्य विवरण</B></span><br>
@@ -384,7 +384,7 @@ Registration Certificate of Establishment
 <br>
 <br>
 <br>
-<b><u><li>नौकरी के बारे में</u> :- </b>
+	<li><b><u>नौकरी के बारे में</u></b> :- 
 
 
  
@@ -409,7 +409,7 @@ Registration Certificate of Establishment
 <br>
 
 
-<li><<b><u>कानूनी दस्तावेज </u></b>&nbsp; = हमारी कंपनी आपको एक प्रदान करती है 
+<li><b><u>कानूनी दस्तावेज </u></b>&nbsp; = हमारी कंपनी आपको एक प्रदान करती है 
 <br>
 
 कानूनी बांड कागज सबूत जिसमें कंपनी का उल्लेख 
@@ -610,11 +610,10 @@ LOCATION =  &nbsp;<a href="https://goo.gl/maps/k2CYBYStDMYB4aDCA">https://goo.gl
 
 <span style="color:GREEN;">HELPLINE NUMBER:- 9899187843</span>
 
-<span style="color:burlywood;">ONLY WHATSAPP NUMBER</span>
+<span style="color: slateblue;">ONLY WHATSAPP NUMBER</span>
 
 
 
 
 
 
-</html>
